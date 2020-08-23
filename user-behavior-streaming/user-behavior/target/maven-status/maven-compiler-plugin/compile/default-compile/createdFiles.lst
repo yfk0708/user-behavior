@@ -1,0 +1,6 @@
+com\djt\service\BehaviorStateService.class
+com\djt\monitor\ThreadMointor.class
+com\djt\common\HBaseClient.class
+com\djt\streaming\UserBehaviorStreaming.class
+com\djt\registrator\MyKryoRegistrator.class
+com\djt\key\UserHourPackageKey.class
